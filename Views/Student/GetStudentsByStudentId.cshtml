@@ -1,0 +1,33 @@
+﻿@model Student
+
+
+<hr />
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p><h1>Student Information</h1></p>
+        <table class="table">
+            <tr>
+                <th>Id</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Percentage</th>
+                <th>DOB</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.First_Name</td>
+                <td>@Model.Last_Name</td>
+                <td>@Model.Percentage</td>
+                <td>@Model.DOB</td>
+                <td><a class="text-dark btn btn-outline-success" asp-controller="Student" asp-action="EditStudent" asp-route-id="@Model.Id">Update</a></td>
+                <td><a class="text-dark btn btn-outline-success" asp-controller="Student" asp-action="DeleteStudent" asp-route-id="@Model.Id">Delete</a></td>
+            </tr>
+            
+        </table>
+
+    </div>
+
+</div>
+
