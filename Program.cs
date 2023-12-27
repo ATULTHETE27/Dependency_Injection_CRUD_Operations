@@ -13,7 +13,7 @@ var connectionString = builder.Configuration.GetConnectionString("CollageDbConne
 builder.Services.AddDbContext<CollageDbContext>(options => options.UseSqlServer(connectionString));
 
 builder.Services.AddScoped<ICollageService, CollageService>();
-//Register Article service
+//Register Student service
 builder.Services.AddScoped<IStudentService, StudentService>();
 
 var app = builder.Build();
