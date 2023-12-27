@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Collage>;
+
+@{
+    ViewData["Title"] = "Collage";
+}
+
+<div class="row text">
+    <div class="col-md-8 offset-2">
+       
+        <div class="row text">
+            <div class="col-md-8 offset-2">
+                <p><h1>Collages</h1></p>
+                <a class="text-dark btn btn-outline-success mt-3 float-end" asp-controller="Collage" asp-action="CreateCollage">Add New Collage</a>
+
+                <table class="table">
+                    <tr>
+                        <th>Collage Name</th>
+                        <th>Address</th>
+                        <th>Grade</th>
+                        <th>Code</th>
+                        <th>Update</th>
+                        <th>Delete</th>
+                    </tr>
+                    @foreach (var collage in Model)
+                    {
+                        <tr>
+                            <td>@collage.Collage_Name</td>
+                            <td>@collage.Address</td>
+                            <td>@collage.Grade</td>
+                            <td>@collage.Code</td>
+                            <td><a class="text-dark btn btn-outline-success" asp-controller="Collage" asp-action="EditCollage" asp-route-id="@collage.Id">Update</a></td>
+                            <td><a class="text-dark btn btn-outline-danger" asp-controller="Collage" asp-action="DeleteCollage" asp-route-id="@collage.Id">Delete</a></td>
+                        </tr>
+                    }
+                </table>               
+            </div>
+        </div>
+    </div>
+</div>
+
+

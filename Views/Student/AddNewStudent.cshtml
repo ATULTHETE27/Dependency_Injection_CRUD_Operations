@@ -1,0 +1,15 @@
+﻿@model StudentViewModel
+
+@{
+    ViewBag.Title = "Create Student";
+}
+
+<div class="row text">
+    <div class="col-md-8 offset-2">
+        <p><h1>Add new Student</h1></p>
+        <form method="post" asp-controller="Student" asp-action="AddNewStudent">
+            <partial name="_StudentFormFields" model="Model" />
+
+        </form>
+    </div>
+</div>
