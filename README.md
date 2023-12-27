@@ -59,7 +59,7 @@ After clicking on Update Button Of Id 1 (Updating Last Name) When Updating We ar
 <br><br>
 After Updating Last Name of Id 1
 <br><br>
-<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(142).png">
+<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(168).png">
 <br><br>
 <br><br>
 After clicking on Collages Dropdown list from Navbar of home page
