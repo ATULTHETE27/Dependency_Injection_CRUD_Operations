@@ -19,7 +19,7 @@ After clicking on Add New Collage button
 <br><br>
 After Adding New Collages
 <br><br>
-<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(152).png">
+<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(169).png">
 <br><br>
 <br><br>
 After clicking on Update button of MET Collage
