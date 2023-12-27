@@ -52,7 +52,7 @@ After Adding New Student
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(162).png">
 <br><br>
 <br><br>
-After clicking on Update Button Of Id 1 (Updating Last Name)
+After clicking on Update Button Of Id 1 (Updating Last Name) When Updating We are able to Add New Student 
 <br><br>
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(163).png">
 <br><br>
