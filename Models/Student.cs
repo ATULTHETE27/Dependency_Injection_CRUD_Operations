@@ -8,7 +8,7 @@ namespace Asp.netCoreMVCIntro.Models
         public string Last_Name { get; set; }
         public int Percentage { get; set; }
         public DateTime DOB { get; set; }
-        //Setup relationship with Tutorial model/table        
+        //Setup relationship with Collage model/table        
         public int CollageId { get; set; } //Foreign Key
         public Collage Collage { get; set; } //Reference navigaton property
     }
