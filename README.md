@@ -27,7 +27,7 @@ After clicking on Update button of MET Collage
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(154).png">
 <br><br>
 <br><br>
-After Adding New Collage
+After Updating MET Collage Data (Address And Grade)
 <br><br>
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(155).png">
 <br><br>
