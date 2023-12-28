@@ -9,7 +9,7 @@ Homepage
 <br><br>
 After clicking on Collages
 <br><br>
-<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(143).png">
+<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(171).png">
 <br><br>
 <br><br>
 After clicking on Add New Collage button
