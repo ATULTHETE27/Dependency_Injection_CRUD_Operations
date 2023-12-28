@@ -29,7 +29,7 @@ After clicking on Update button of MET Collage
 <br><br>
 After Updating MET Collage Data (Address And Grade)
 <br><br>
-<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(169).png">
+<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(172).png">
 <br><br>
 <br><br>
 After Deleting Sandip Collage
