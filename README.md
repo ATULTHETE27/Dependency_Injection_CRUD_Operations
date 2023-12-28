@@ -17,7 +17,7 @@ After clicking on Add New Collage button
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(153).png">
 <br><br>
 <br><br>
-After Adding New Collages
+After Adding New Collage i.e. Sandip
 <br><br>
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(169).png">
 <br><br>
@@ -30,6 +30,11 @@ After clicking on Update button of MET Collage
 After Updating MET Collage Data (Address And Grade)
 <br><br>
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(173).png">
+<br><br>
+<br><br>
+After Clicking on Delete Button of Sandip Collage
+<br><br>
+<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(155).png">
 <br><br>
 <br><br>
 After Deleting Sandip Collage
