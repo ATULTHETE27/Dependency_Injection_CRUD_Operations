@@ -37,6 +37,11 @@ After Deleting Sandip Collage
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(143).png">
 <br><br>
 <br><br>
+Clicking on Students Button from Home Page
+<br><br>
+<img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(170).png">
+<br><br>
+<br><br>
 After clicking on Students Button from Home Page
 <br><br>
 <img src="https://github.com/ATULTHETE27/Dependency_Injection_CRUD_Operations/blob/master/Screenshots/Screenshot%20(160).png">
