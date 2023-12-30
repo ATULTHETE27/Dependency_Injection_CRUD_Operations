@@ -1,4 +1,4 @@
-# Students Management System.
+# CRUD Operations with Dependency Injection
 # Screenshots
 <br><br>
 <br><br>
